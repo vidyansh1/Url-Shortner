@@ -1,0 +1,25 @@
+{
+  "name": "urlshortner",
+  "version": "1.0.0",
+  "description": "my first backend project",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vidyansh1/Url-Shortner.git"
+  },
+  "author": "Vidyansh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vidyansh1/Url-Shortner/issues"
+  },
+  "homepage": "https://github.com/vidyansh1/Url-Shortner#readme",
+  "dependencies": {
+    "express": "^5.1.0",
+    "mongoose": "^8.16.2",
+    "nanoid": "^5.1.5",
+    "nodemon": "^3.1.10"
+  }
+}
